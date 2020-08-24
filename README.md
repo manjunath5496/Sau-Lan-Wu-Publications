@@ -7,34 +7,39 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(1).pdf" style="text-decoration:none;">Feasibility of Searches for a Higgs Boson using H &rarr; W<sup>+</sup>W<sup>−</sup> &rarr; l<sup>+</sup>l<sup>−</sup> p<sub>T</sub> and High P<sub>T</sub>
 Jets at the Tevatron</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(2).pdf" style="text-decoration:none;">High-accuracy comparison of numerical relativity simulations with post-Newtonian expansions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(2).pdf" style="text-decoration:none;">Normalizing Weak Boson Pair Production at the Large Hadron Collider</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(3).pdf" style="text-decoration:none;">High accuracy simulations of Kerr tails: coordinate dependence and higher multipoles</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(4).pdf" style="text-decoration:none;">Initial data for black hole–neutron star binaries: a flexible, high-accuracy spectral method </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(5).pdf" style="text-decoration:none;">Ineffectiveness of Pade resummation techniques in post-Newtonian approximations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(6).pdf" style="text-decoration:none;">Evolving black hole-neutron star binaries in general relativity using pseudospectral and finite difference methods</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(7).pdf" style="text-decoration:none;">Spinning down newborn neutron stars: nonlinear development of the r-mode instability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(3).pdf" style="text-decoration:none;">Search for neutral Higgs bosons
+decaying into four taus at LEP2</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(4).pdf" style="text-decoration:none;">Higgs Decay H &rarr; γγ through a W Loop: Difficulty with Dimensional Regularization</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(5).pdf" style="text-decoration:none;">Higgs Decay into Two Photons, Revisited</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(6).pdf" style="text-decoration:none;">Brief history for the search and discovery of the Higgs particle – A personal perspective</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(7).pdf" style="text-decoration:none;">Brief History for the Search and Discovery of the Higgs Particle A Personal Perspective</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(8).pdf" style="text-decoration:none;"> Orbiting binary black hole evolutions with a multipatch high order finite-difference approach </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(9).pdf" style="text-decoration:none;">Equation of state effects in black hole-neutron star mergers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(8).pdf" style="text-decoration:none;"> Dark Matter Benchmark Models for Early LHC Run-2 Searches: Report of the ATLAS/CMS Dark Matter Forum </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(9).pdf" style="text-decoration:none;">LHC Dark Matter Working Group:
+Next-generation spin-0 dark matter models</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(10).pdf" style="text-decoration:none;">Measuring orbital eccentricity and periastron advance in quasi-circular black hole simulations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(11).pdf" style="text-decoration:none;">Spectral methods for the wave equation in second-order form</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(12).pdf" style="text-decoration:none;">Black hole-neutron star mergers: effects of the orientation of the black hole spin</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(13).pdf" style="text-decoration:none;">Black hole-neutron star mergers for 10M<sub>⊙</sub> black holes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(10).pdf" style="text-decoration:none;">Fermion-boson symmetry and quantum field theory</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(11).pdf" style="text-decoration:none;">Gauge invariance for a class of tree diagrams in the standard model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(12).pdf" style="text-decoration:none;">Application of K Factors in the
+  H &rarr; ZZ<sup>⋆</sup> &rarr; 4l Analysis at the LHC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(13).pdf" style="text-decoration:none;">Challenges in Moving the LEP Higgs Statistics to the LHC</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(14).pdf" style="text-decoration:none;">Are different approaches to constructing initial data for binary black hole simulations of the same astrophysical situation equivalent?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(14).pdf" style="text-decoration:none;">Prospects for Pentaquark Searches in
+  e<sup>+</sup>e<sup>−</sup> Annihilations and Collisions</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(15).pdf" style="text-decoration:none;">Dynamical Excision Boundaries in Spectral Evolutions of Binary Black Hole Spacetimes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(15).pdf" style="text-decoration:none;">Prospects forHiggs Searches via VBF at the LHC with the ATLAS Detector</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(16).pdf" style="text-decoration:none;">Black-hole–neutron-star mergers at realistic mass ratios: Equation of state and spin orientation effects</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(16).pdf" style="text-decoration:none;">Prospects for the Search for a Standard Model Higgs Boson in ATLAS using Vector Boson Fusion</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(17).pdf" style="text-decoration:none;">A catalog of 174 binary black-hole simulations for gravitational-wave astronomy</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(17).pdf" style="text-decoration:none;">Prospects for the Observation of a
+  Higgs Boson with H &rarr; τ<sup>+</sup> τ<sup>-</sup> &rarr; l<sup>+</sup>l<sup>-</sup> p<sub>t</sub> Associated with One Jet at the LHC</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(18).pdf" style="text-decoration:none;">Final spin and radiated energy in numerical simulations of binary black holes with equal masses and equal, aligned or anti-aligned spins</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(18).pdf" style="text-decoration:none;">THE HIGGS WORKING GROUP: Summary Report</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(19).pdf" style="text-decoration:none;">Error-analysis and comparison to analytical models of numerical waveforms produced by the NRAR Collaboration</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(19).pdf" style="text-decoration:none;">Recent Results on B Meson Oscillations</a></li> 
 
 </ul>
