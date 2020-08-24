@@ -14,7 +14,7 @@ decaying into four taus at LEP2</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(4).pdf" style="text-decoration:none;">Higgs Decay H &rarr; γγ through a W Loop: Difficulty with Dimensional Regularization</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(5).pdf" style="text-decoration:none;">Higgs Decay into Two Photons, Revisited</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(6).pdf" style="text-decoration:none;">Brief history for the search and discovery of the Higgs particle – A personal perspective</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(7).pdf" style="text-decoration:none;">Brief History for the Search and Discovery of the Higgs Particle A Personal Perspective</a></li>
+
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(8).pdf" style="text-decoration:none;"> Dark Matter Benchmark Models for Early LHC Run-2 Searches: Report of the ATLAS/CMS Dark Matter Forum </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Sau-Lan-Wu-Publications/blob/master/slw(9).pdf" style="text-decoration:none;">LHC Dark Matter Working Group:
